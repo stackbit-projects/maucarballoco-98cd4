@@ -11,7 +11,7 @@ sections:
       - label: Let's talk
         url: /contact
         style: button
-    title: 'Hola, Soy Mauricio C'
+    title: 'Hola, Soy Mauricio Carballo'
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
